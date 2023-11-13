@@ -6,5 +6,6 @@ public class Mango {
 	
 	public int getPrice() {
 		return price;
+		
 	}
 }
